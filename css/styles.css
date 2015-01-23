@@ -9,6 +9,22 @@
 
 }
 
+.schedule2 body {
+position: absolute;
+}
+
+.schedule2 h3 {
+float: left;
+position: relative;
+
+}
+
+.content p {
+
+	position: relative;
+	top: 100px;
+}
+
 .ui.definition.table tr td:first-child {
 
 	color: #53BFB7;
