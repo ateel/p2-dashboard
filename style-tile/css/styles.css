@@ -11,6 +11,8 @@ section {
 .color-1,
 .color-2,
 .color-3,
+.color-4,
+.color-5,
 .pattern-1,
 .pattern-2,
 .pattern-3, 
@@ -26,15 +28,88 @@ section {
 
 /*Style Tile for*/
 .color-1 {
-background: orange;
+background: #53BFB7;
 
 }
 
 .color-2 {
-	background: green;
+	background: #82CED4;
+}
+
+.color-3 {
+	background: #D2EAEB;
+
+}
+
+.color-4 {
+
+	background: #F3EBBD;
 }
 
 
+.color-5 {
+
+	background: #C8A3C2;
+}
+
+/*patterns*/
+
+.pattern-1 {
+background: url("../img/symphony.png");
+
+}
+
+.pattern-2 {
+	background: url("../img/greyfloral.png");
+}
+
+.pattern-3 {
+	background: url("../img/foggy_birds.png");
+
+}
+
+/*imagery*/
+
+.imagery-1 {
+background: url("../img/EWU.png");
+}
+
+.imagery-2 {
+background: url("../img/tree.png");
+}
+
+
+
+h2 {
+
+	font-family: 'Pacifico', cursive;
+	font-size: 2.5em;
+	color: #C8A3C2;
+}
+
+h3 {
+
+	font-family: 'Open Sans', sans-serif;
+	font-variant: bold;
+	color: #53BFB7;
+}
+
+p {
+
+	font-family: 'Open Sans', sans-serif;
+}
+
+h4 {
+
+	font-family: 'Open Sans', sans-serif;
+	font-variant: bold;
+}
+
+a {
+text-decoration: none;
+color: #53BFB7;
+
+}
 
 /* Show Grid */
 .showgrid {
